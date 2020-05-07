@@ -14,7 +14,7 @@ else if(number === 1){
 else if (number === 2) {
     return array_num = [number, yrTwo, yrTwo];
 } else {
-    return "Please provide a whole number not minus or decimal"
+    return "Please provide a whole number not negative"
 };
 };
 
